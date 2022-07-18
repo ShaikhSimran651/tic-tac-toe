@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+
+td{
+    height: 100px;
+    width: 100px;
+    background: goldenrod;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+
+body{
+    background: red;
+
+}
+
+table{
+    margin: 20px auto;
+    border-radius: 10px;
+    color: whitesmoke;
+}
